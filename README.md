@@ -1,2 +1,1 @@
-# Data_Visualization_INF4000
- Coursework Project
+# This study compares technology and industrial sector leaders from NYSE and NASDAQ in terms of stock performance, volatility and trends between 2006 and 2020. For technology sector Apple and IBM were selected, and for industrial sector Caterpillar and American Airlines Group were selected for the analysis. 4 different types of visuals - line chart, candlestick charts, correlation matrix plot and area chart were built to analyze the stocks from performance, volatility and correlation perspective.
